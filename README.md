@@ -1,7 +1,7 @@
 cara install 
 
 git clone url repositori
-cd web-service-adit 
+cd web-service-revi
 
 npm install 
 
